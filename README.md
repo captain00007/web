@@ -1,6 +1,6 @@
 ## Configuração para rodar o projeto no linux
 
-**-Instalar rbenv (gerenciador de versões ruby)**
+**-Instalar rbenv (gerenciador de versões ruby)**  
 Passo à passo:
 * git clone https://github.com/rbenv/rbenv.git ~/.rbenv
 * echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
